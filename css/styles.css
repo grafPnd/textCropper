@@ -1,0 +1,12 @@
+.textDiv
+{
+    width: 200px;
+    height: 200px;
+
+    margin: 10px 10px 0 0;
+
+    overflow: hidden;
+    border: red solid 1px;
+
+    font-size: 40px;
+}
